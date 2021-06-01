@@ -48,7 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # Tesla UI Clone
 
-- Topics that were focused on in this project:
+###Topics that were focused on in this project:
 
 * Repository made only for studying purposes
 * Cloning the Tesla web application UI functionalities
