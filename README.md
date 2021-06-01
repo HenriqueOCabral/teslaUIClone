@@ -44,4 +44,16 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
 # teslaUIClone
+
+- Topics that were focused on in this project:
+
+* Repository made only for studying purposes
+* Cloning the Tesla web application UI functionalities
+* No images, arts, media, just code
+* React
+* Typescript
+* Styled Components
+* Framer Motion
